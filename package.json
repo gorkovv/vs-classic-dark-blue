@@ -1,0 +1,32 @@
+{
+    "name": "classic-dark-blue",
+    "displayName": "Classic dark-blue theme",
+    "description": "This is the most eye-pleasing theme.",
+    "version": "1.0.1",
+    "icon": "images/logo.png",
+    "engines": {
+        "vscode": "*"
+    },
+    "publisher": "Vladimir Gorkov",
+    "keywords": [
+		"theme",
+		"color"
+    ],
+    "categories": [
+		"Themes"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Classic dark-blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/classic-dark-blue.json"
+            }
+        ]
+    },
+    "license": "MIT",
+	"galleryBanner": {
+		"color": "#111729",
+		"theme": "dark"
+	}
+}
