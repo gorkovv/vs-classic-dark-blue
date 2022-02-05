@@ -1,13 +1,14 @@
 {
     "name": "classic-dark-blue",
     "displayName": "Classic dark-blue theme",
-    "description": "This is the most eye-pleasing theme.",
+    "description": "Color theme for Visual Studio Code in a friendly dark blue color",
     "version": "1.0.1",
     "icon": "images/logo.png",
     "engines": {
         "vscode": "*"
     },
     "publisher": "Vladimir Gorkov",
+    "repository": "https://github.com/gorkovv/vs-classic-dark-blue",
     "keywords": [
 		"theme",
 		"color"
