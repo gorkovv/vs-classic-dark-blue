@@ -3,5 +3,5 @@ This is the most eye-catching theme for Visual Studio Code
 
 ### Example
 
-![Example](https://https://github.com/gorkovv/vs-classic-dark-blue/pic1.png)
+![Example](/pic1.png)
 
