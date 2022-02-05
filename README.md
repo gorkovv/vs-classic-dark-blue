@@ -3,5 +3,5 @@ This is not an eye-stressing topic for programmers
 
 ### Example
 
-![Example](/pic1.png)
+![Example](https://raw.githubusercontent.com/gorkovv/vs-classic-dark-blue/main/pic1.png)
 
