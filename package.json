@@ -7,8 +7,11 @@
     "engines": {
         "vscode": "*"
     },
-    "publisher": "Vladimir Gorkov",
-    "repository": "https://github.com/gorkovv/vs-classic-dark-blue",
+    "publisher": "gorkov",
+    "repository": {
+       "type": "git",
+       "url": "https://github.com/gorkovv/vs-classic-dark-blue.git"
+    },
     "keywords": [
 		"theme",
 		"color"
